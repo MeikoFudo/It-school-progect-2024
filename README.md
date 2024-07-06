@@ -1,5 +1,6 @@
 # It_school_progect_2024
 # Бот для изучения и развития осетинского языка
+[Uploading presentation.pdf…]()
 
 (![photo_2024-07-06_03-54-07](https://github.com/MeikoFudo/It_school_progect_2024/assets/80260272/fb5b8d57-5b86-4e1c-aea4-976d16c61926))
 
