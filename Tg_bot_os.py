@@ -163,7 +163,7 @@ async def menu_command(update: Update, context):
 
 # Основная функция для запуска бота
 def main():
-    application = ApplicationBuilder().token("7207211232:AAGOGKdjH96gfdwGr64n5k2uP-R4JmdkMTc").build()
+    application = ApplicationBuilder().token("").build()
 
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CommandHandler("help", help_command))
